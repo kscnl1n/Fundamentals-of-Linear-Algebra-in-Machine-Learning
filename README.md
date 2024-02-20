@@ -7,17 +7,24 @@ High-level math concepts find numerous practical applications in computer scienc
 
 The purpose of this course is to teach the math-skeptical programmer the importance of advanced mathematical concepts in programming. We’ll be examining the applications of linear algebra and calculus in machine learning, using Matlab programs to visualize as we go. By the end of this course, the student should have a solid understanding of the following concepts:
 
--[] Python fundamentals
+- [] Python fundamentals
+
 -[] Supervised vs. Unsupervised learning
+
 -[] Regularization
+
 -[] Optimization 
+
 -[] Linear Programming
 
 A grasp on how to use the following technologies and frameworks:
 
 -[] Tensorflow
+
 -[] MATLAB
+
 -[] SciPy
+
 -[] PuLP
 
 As well as this repertoire of ML projects in their portfolio:
