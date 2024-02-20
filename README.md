@@ -9,27 +9,30 @@ The purpose of this course is to teach the math-skeptical programmer the importa
 
 [] Python fundamentals
 
--[] Supervised vs. Unsupervised learning
+[] Supervised vs. Unsupervised learning
 
--[] Regularization
+[] Regularization
 
--[] Optimization 
+[] Optimization 
 
--[] Linear Programming
+[] Linear Programming
 
 A grasp on how to use the following technologies and frameworks:
 
--[] Tensorflow
+[] Tensorflow
 
--[] MATLAB
+[] MATLAB
 
--[] SciPy
+[] SciPy
 
--[] PuLP
+[] PuLP
 
 As well as this repertoire of ML projects in their portfolio:
 
--[] 3d matrix calculator with Python and MATLAB
--[] Linear Regression Modeler with Python and MATLAB
--[] Delivery Route Optimization Web App
--[] Optimal Return Stock Portfolio Management Tool
+[] 3d matrix calculator with Python and MATLAB
+
+[] Linear Regression Modeler with Python and MATLAB
+
+[] Delivery Route Optimization Web App
+
+[] Optimal Return Stock Portfolio Management Tool
